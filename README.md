@@ -1,8 +1,9 @@
 # Alejandro — Full-Stack & Data Engineer
 
 > Building systems at the intersection of software, data, and security.
-Full-Stack Engineering · Data Systems · Product Development  
-Security-minded · Systems-oriented · Scaling toward AI & Cloud  
+
+### Full-Stack Engineering · Data Systems · Product Development  
+### Security-minded · Systems-oriented · Scaling toward AI & Cloud  
 
 ---
 
